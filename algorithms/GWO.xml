@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Algorithm>
+ <name>GWO</name>
+ <setting1 name="Number of Search Agents:" value="10"></setting1>
+ <setting2 name="Number of iterations" value="100"></setting2>
+</Algorithm>
